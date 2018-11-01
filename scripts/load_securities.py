@@ -34,7 +34,7 @@ def main():
       host='127.0.0.1',
       database='opentrade',
       user='postgres',
-      password='test')
+      password='123456')
 
   cursor = conn.cursor()
   exchanges = {}

@@ -1,7 +1,8 @@
 FROM ubuntu:bionic
 
 RUN apt-get update \
-  && apt-get install -y \
+  && apt-get --fix-missing install -y \
+    libstdc++-7-dev\
     g++  \
     make \
     cmake \
