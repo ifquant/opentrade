@@ -1,5 +1,7 @@
 # OpenTrade
 
+![OpenTrade Logo](https://github.com/opentradesolutions/opentrade/blob/master/imgs/ot.png)
+
 OpenTrade is an open source OEMS, and algorithmic trading platform, designed for simplicity, flexibility and performance. 
 
 [**Demo**](http://demo.opentradesolutions.com)
